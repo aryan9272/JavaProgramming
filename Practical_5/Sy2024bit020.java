@@ -57,7 +57,7 @@ System.out.println("");
 int cnt=1;
 for(int i=1;i<=n;i++){//row
 for(int j=1;j<=i;j++,cnt++){
-System.out.print(cnt);
+System.out.print(cnt+" ");
 }
 System.out.println("");
 }
@@ -160,4 +160,5 @@ int n=5;
 	pp5(n);
 
 }
+
 }
