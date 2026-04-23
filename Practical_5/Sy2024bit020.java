@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 class Sy2024bit020{
 		static void pp1(int n){
 
@@ -327,4 +327,4 @@ int n=5;
 }
 
 }
->>>>>>> 17e715c23443bcba1805495944db943f2831d153
+
